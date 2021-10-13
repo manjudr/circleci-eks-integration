@@ -1,0 +1,19 @@
+{
+  "name": "circleci-eks-integration",
+  "version": "1.0.0",
+  "description": "Using CircleCI deploy the image to amazon eks cluster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manjudr/circleci-eks-integration.git"
+  },
+  "author": "Manjunath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manjudr/circleci-eks-integration/issues"
+  },
+  "homepage": "https://github.com/manjudr/circleci-eks-integration#readme"
+}
